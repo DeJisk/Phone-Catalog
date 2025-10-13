@@ -7,7 +7,7 @@ The project focuses on displaying products, searching, filtering, and viewing de
 ---
 
 ## Live Preview
-[View Phone Catalog Online](https://dejisk.github.io/phone-catalog/)
+[View Phone Catalog Online](https://dejisk.github.io/Phone-Catalog/)
 
 ---
 
